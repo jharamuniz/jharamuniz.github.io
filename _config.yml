@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Jamila Haramuniz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Learn with confidence."
+  location         : "NJ"
   email            :
   links:
     - label: "Email"
