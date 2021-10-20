@@ -1,4 +1,5 @@
 source "https://rubygems.org"
-gemspec
-gem 'jekyll-seo-tag'
-gem 'webrick'
+
+gem "jekyll"
+gem "jekyll-environment-variables"
+gem "webrick", "~> 1.7"
