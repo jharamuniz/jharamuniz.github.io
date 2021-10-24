@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: Youtube
+    url: https://www.youtube.com/channel/UC95sgTv5BYyL0GXGiP4S7zg/videos
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  #  - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
