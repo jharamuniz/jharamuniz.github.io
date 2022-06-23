@@ -10,7 +10,7 @@ header:
     - label: "Book an Appointment"
       url: "/contact"
 excerpt: >
-  STEM tutoring in various subjects, from Algebra to Calculus, economics and finance
+  STEM tutoring in various subjects, from Algebra to Calculus and Computer Science
 feature_row:
   - image_path: /assets/splash/ipad-unsplash.jpeg
     alt: "customizable"
